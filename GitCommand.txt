@@ -1,0 +1,11 @@
+1> git status//for check status of all file
+2> git init//for initialization of repository 
+3> git add .//for satging the file it is requied for commit the file 
+4> git commit -m "version1"//for commit the file "version" is label of commit
+5> git config --global user.email "krutarthkhatrimac@gmail.com"//to set email
+6> git config --global user.name "krutarth khatri"//to set user name
+7> git log//to show the who and which time file are update
+8> before push and pull you need create ssh key for remote servies
+9> git push -u origin master//push code on github here origin is name of that folder the access
+10> git pull origin master//pull code on github here origin is name of that folder the access
+11>git remote rm destination//use for remove the remote from our repositoy
