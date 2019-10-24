@@ -8,4 +8,6 @@
 8> before push and pull you need create ssh key for remote servies
 9> git push -u origin master//push code on github here origin is name of that folder the access
 10> git pull origin master//pull code on github here origin is name of that folder the access
-11>git remote rm destination//use for remove the remote from our repositoy
+11> git remote rm destination//use for remove the remote from our repositoy
+12> git diff util.txt// to show which text will change in this file 
+13> 12> git diff --stage util.txt// to show which text will change in this file during staging phase 
