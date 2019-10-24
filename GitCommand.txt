@@ -13,3 +13,14 @@
 13> git diff --stage util.txt//for show stage file update
 14> git reset util.txt//to unstage the file
 15> git checkout util.txt//to reomve chnage on file (or) git checkout .//for reset all fileange in this file 
+16> ls -la//to show all file in your repository
+17> git clone "url of that file in form if ssh"// to download(clone) code from github
+18> touch .gitignore//to create blank file n your repository** then write notepad .gitignore so open notepad and write file name u want 
+to ingnore it and also write extension u want ignore it (.txt)...(search gitigonre file)
+19> git branch//to show brach
+20> git branch login-systemto create another branch
+21> git chechout login-system//to switch branch master to login-system 
+22> git checkout master
+23> git merge login-system// to merge both origin
+24> git breanch -d login-system//to delete breach from local 
+25> git push origin --delete login-system//for delete branch from your repository
