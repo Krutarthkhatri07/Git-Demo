@@ -1,5 +1,6 @@
 1> git status//for check status of all file
 2> git init//for initialization of repository 
+2.1>git remote add origin (ssh)url//to add remote 
 3> git add .//for satging the file it is requied for commit the file 
 4> git commit -m "version1"//for commit the file "version" is label of commit
 5> git config --global user.email "krutarthkhatrimac@gmail.com"//to set email
